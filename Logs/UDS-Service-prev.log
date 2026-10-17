@@ -1,0 +1,125 @@
+
+Server arguments:
+  --memory-size 1073741824
+  --shared-postfix 1d079ee0499b2886994a44d37f6baa2f
+  --working-directory Library/DataStore
+  --silent-console
+  --shutdown-grace 0
+  --client-process-check 0
+  --uds-log-file C:/Users/deads/Unity projects/Protoype 1/Logs/UDS-Service.log
+  --debug-log 2
+  -name
+  Unity.DataStore
+
+Initialising UDS system complete:
+  - System type: Service
+  - Resource namespace: 1d079ee0499b2886994a44d37f6baa2f
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+Starting Unity Data Store Application
+[Error] Failed to remove data for hash 2b614a6f4319557bf7278c0a0d48abe2. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash d58d231774cf45442c6c431464d1a459. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 0620645e0ba8d45d5dcd9addfd2098d9. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 9010e21e109ef1f2eabdab5d086e3790. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 0ef0243fe2bbd31cfb5a46c4ab687f15. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash ae397029922fed9c3227428a37713a62. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 54420d10418c3bfc245e51f0935cd21d. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
+[Error] Failed to remove data for hash 81711da31251a9e0d1a6d5b211aa2850. Failure received from service
+0x00007ff65760c665 (Unity.DataStore) uds_wait_handle_complete
+0x00007ff6575cfe85 (Unity.DataStore) uds_cleanup
+0x00007ff6575bee6f (Unity.DataStore) 
+0x00007ff6575c00bd (Unity.DataStore) 
+0x00007ff6575a7395 (Unity.DataStore) 
+0x00007ff6575a681a (Unity.DataStore) 
+0x00007ff6575a6aff (Unity.DataStore) 
+0x00007ff6575a28b5 (Unity.DataStore) 
+0x00007ff6576280e4 (Unity.DataStore) uds_wait_handle_complete
+0x00007ffb208cdda7 (KERNEL32) BaseThreadInitThunk
+0x00007ffb21d1ee4c (ntdll) RtlUserThreadStart
+
